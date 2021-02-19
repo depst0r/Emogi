@@ -1,12 +1,12 @@
-# Emogi for GitHub
+# Emoji for GitHub
 
-### Usung Emogi:
+### Usung Emoji:
 <ul>
   <li>
-    for git commit -m :emogi:
+    for git commit -m :emoji:
   </li>
     <li>
-    for readme.md :emogi:
+    for readme.md :emoji:
   </li>
   </ul>
 
