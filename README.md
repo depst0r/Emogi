@@ -1,8 +1,14 @@
 # Emogi for GitHub
 
 ### Usung Emogi:
->for git commit -m :emogi:
->for readme.md :emogi:
+<ul>
+  <li>
+    for git commit -m :emogi:
+  </li>
+    <li>
+    for readme.md :emogi:
+  </li>
+  </ul>
 
 People
 
