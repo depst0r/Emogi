@@ -2,7 +2,7 @@
 
 ### Usung Emogi:
 >for git commit -m :emogi:
-> for readme.md :emogi:
+>for readme.md :emogi:
 
 People
 
