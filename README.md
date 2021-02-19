@@ -1,7 +1,8 @@
 # Emogi for GitHub
 
 ### Usung Emogi:
->hgh
+>for git commit -m :emogi:
+> for readme.md :emogi:
 
 People
 
