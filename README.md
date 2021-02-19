@@ -1,4 +1,7 @@
-# Emogi
+# Emogi for GitHub
+
+### Usung Emogi:
+>hgh
 
 People
 
