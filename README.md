@@ -3,10 +3,10 @@
 ### Usung Emoji:
 <ul>
   <li>
-    for git commit -m :emoji:
+    For git commit -m :emoji:
   </li>
     <li>
-    for readme.md :emoji:
+    For readme.md :emoji:
   </li>
   </ul>
 
